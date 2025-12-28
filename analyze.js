@@ -6,4 +6,5 @@ export default function handler(req, res) {
     message: "Mahjong Scan backend is live"
   });
 }
+// redoploy
 
