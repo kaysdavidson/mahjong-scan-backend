@@ -1,2 +1,9 @@
-{}
+{
+  "functions": {
+    "api/*.js": {
+      "runtime": "nodejs18"
+    }
+  }
+}
+
 
