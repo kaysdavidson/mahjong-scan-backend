@@ -1,0 +1,8 @@
+{
+  "name": "mahjong-scan-backend",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
